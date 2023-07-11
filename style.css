@@ -27,7 +27,7 @@ align-items: center;
     
 }
 /* main reletive style */
-.container-section{
+   .section-hot deal{
     display: flex;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
